@@ -5,10 +5,10 @@
     - XAMPP (running the Apache WebServer)
     - OWASP Switchblade 4.0 (desinged to test your networks/servers security and ability to withstand an attack)
 
-1. Run the "ipconfig" in the Command Prompt to get the localhost address or just use 127.0.0.1
-![alt text](SI-labs/Lab 2/images/cmd_1.png "Windows IP configuration")
+1. Run the "ipconfig" in the Command Prompt to get the localhost address or just use 127.0.0.1.
+![alt text](https://github.com/VladCroitoru/SI-labs/blob/master/Lab%202/images/cmd_1.png "Windows IP configuration")
 
-1. Run the XAMPP Control Panel and start the Apache service
+1. Run the XAMPP Control Panel and start the Apache service.
 ![alt text](SI-labs/Lab 2/images/xampp_2.png "Apache Control Panel window")
 
 1. Open a browser window and check the localhost for the running Apache page, can also be done by pressing the admin button in the XAMPP CP.
