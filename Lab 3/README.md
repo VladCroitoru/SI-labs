@@ -12,3 +12,5 @@ The actual code cracking is happening here as it shifts the letters based on the
 Is supposed to use external libraries to check if the decrypted string contains actual english words, here is where i met some troubles implementing those external libraries so i made a short list of frequent english words(valid_words)
 
 The last function just blends all of the above together and prints the string to have valid words.
+
+![alt text](https://github.com/VladCroitoru/SI-labs/blob/master/Lab%203/results.png "Cracked codes")
