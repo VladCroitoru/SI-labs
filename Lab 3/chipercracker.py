@@ -49,9 +49,9 @@ def spell_checker(string):
             print string
 
 
-def solve(string):
+def solve(string, lang):
 
-    rules = get_shift_rules(string, letter_frequency_english)
+    rules = get_shift_rules(string, lang)
 
     for rule in rules:
         result = decrypt(rule, string)
@@ -79,6 +79,6 @@ letter_frequency_general_fiction = 'ETAOHNISRDLUWMCGFYPVKBJXZQ'
 valid_words = ['IS', 'THE', 'AM', 'I', 'ARE', 'YOU', 'TO', 'MY', 'BE', 'AND', 'AS', 'IT', 'IN']
 
 
-solve(string1)
-solve(string2)
-solve(string3)
+solve(string1, letter_frequency_english)
+solve(string2, letter_frequency_english)
+solve(string3, letter_frequency_english)
