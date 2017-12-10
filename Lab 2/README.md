@@ -32,7 +32,7 @@
 1. The CPU usage during the attack spiked:
 ![alt text](https://github.com/VladCroitoru/SI-labs/blob/master/Lab%202/images/taskmgr_final.png "CPU usage during attack")
 
-1. By checking the acces logs, we can check the connections created:
+1. By checking the acces logs, we can see the connections created:
 ![alt text](https://github.com/VladCroitoru/SI-labs/blob/master/Lab%202/images/access_logs.png "Acces logs")
 
 ### Conclusion:
