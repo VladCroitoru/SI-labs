@@ -5,7 +5,7 @@ The cracker contains 3 main functions
 Probably the core function. 
 It is supposed to procces the the initial string: removes the spaces and the special character. Then it counts the number of times a letter appears in the string and creates an odered list. It then creates a list of possible permutation based on the frequency of letters in the code and in the selected language.
 
-## The 'dechyper' function:
+## The 'decrypt' function:
 The actual code cracking is happening here as it shifts the letters based on the permutations list in order to get the string shifted in the right order
 
 ## The 'spell_checker' function:
